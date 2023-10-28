@@ -1,0 +1,80 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: auto;
+}
+#main{
+  width: 626px;
+  margin: 64px auto;  
+}
+#main img{
+  width: 350px;
+  margin: 0 72px 32px;
+}
+h1{
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: 40.45px;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 16px;
+  color: rgba(63, 61, 86, 1);
+}
+h1 span{
+  font-weight: bold;
+  color: rgba(238, 36, 255, 1);
+}
+#p1 {
+  width: 540px;
+  margin: 0 auto;
+}
+#p2{
+  width: 626px; 
+  margin-top: 32px; 
+}
+#p1,#p2{
+  font-size: 15px;
+  line-height: 22px;
+  font-weight: 400;
+  color: rgba(130, 130, 130, 1);
+  text-align: center;
+}
+
+span{
+  color: rgba(63, 61, 86, 1);
+  font-weight: bold;
+}
+.span2{
+  display: block;
+  text-align: center;
+}
+
+#line,#line2{
+  width: 391px;
+  border: 1px solid rgba(236, 239, 242, 1);
+}
+#line{
+  margin: 0 auto 16px;
+}
+#line2{
+  margin: 40.63px auto 0;
+  width: 100%;
+  height: auto;
+}
+
+#a1,#a2,#a3{
+  width: 57px;
+  height: 15.17px;
+  font-size: 15px;
+  line-height: 22.15px;
+  font-weight: bold;
+  color: rgba(63, 61, 86, 1);
+  text-decoration: none;
+}
+#a1,#a2{
+  padding-right:42px ;
+}
+#wave{
+ width: 100%; 
+ height: auto; 
+}
